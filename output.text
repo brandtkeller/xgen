@@ -1,0 +1,2232 @@
+Element: catalog  - Type: oscal-catalog-catalog-ASSEMBLY
+	Length of ComplexType: 0
+Element: metadata  - Type: oscal-metadata-metadata-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-catalog-ASSEMBLY
+Element: param  - Type: oscal-control-common-parameter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-catalog-ASSEMBLY
+Element: control  - Type: oscal-catalog-control-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-catalog-ASSEMBLY
+Element: group  - Type: oscal-catalog-group-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-catalog-ASSEMBLY
+Element: back-matter  - Type: oscal-metadata-back-matter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-catalog-ASSEMBLY
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-group-ASSEMBLY
+ComplexType e: title
+Element: param  - Type: oscal-control-common-parameter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-group-ASSEMBLY
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-group-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-group-ASSEMBLY
+Element: part  - Type: oscal-control-common-part-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-group-ASSEMBLY
+Element: group  - Type: oscal-catalog-group-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-group-ASSEMBLY
+Element: control  - Type: oscal-catalog-control-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-group-ASSEMBLY
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-control-ASSEMBLY
+ComplexType e: title
+Element: param  - Type: oscal-control-common-parameter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-control-ASSEMBLY
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-control-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-control-ASSEMBLY
+Element: part  - Type: oscal-control-common-part-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-control-ASSEMBLY
+Element: control  - Type: oscal-catalog-control-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-catalog-control-ASSEMBLY
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-part-ASSEMBLY
+ComplexType e: title
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-part-ASSEMBLY
+Element: part  - Type: oscal-control-common-part-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-part-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-part-ASSEMBLY
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-ASSEMBLY
+Element: label  - Type: label
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-ASSEMBLY
+ComplexType e: label
+Element: usage  - Type: usage
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-ASSEMBLY
+ComplexType e: usage
+Element: constraint  - Type: oscal-control-common-parameter-constraint-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-ASSEMBLY
+Element: guideline  - Type: oscal-control-common-parameter-guideline-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-ASSEMBLY
+Element: value  - Type: oscal-control-common-parameter-value-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-ASSEMBLY
+Element: select  - Type: oscal-control-common-parameter-selection-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-constraint-ASSEMBLY
+ComplexType e: description
+Element: test  - Type: test
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-constraint-ASSEMBLY
+ComplexType e: test
+Element: expression  - Type: expression
+	Length of ComplexType: 2
+	ComplexType Name: test
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: test
+ComplexType e: remarks
+Element: choice  - Type: choice
+	Length of ComplexType: 1
+	ComplexType Name: oscal-control-common-parameter-selection-ASSEMBLY
+ComplexType e: choice
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+ComplexType e: title
+Element: published  - Type: oscal-metadata-published-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+Element: last-modified  - Type: oscal-metadata-last-modified-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+Element: version  - Type: oscal-metadata-version-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+Element: oscal-version  - Type: oscal-metadata-oscal-version-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+Element: revisions  - Type: revisions
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+ComplexType e: revisions
+Element: revision  - Type: revision
+	Length of ComplexType: 2
+	ComplexType Name: revisions
+ComplexType e: revision
+Element: title  - Type: title
+	Length of ComplexType: 3
+	ComplexType Name: revision
+ComplexType e: title
+Element: published  - Type: oscal-metadata-published-FIELD
+	Length of ComplexType: 3
+	ComplexType Name: revision
+Element: last-modified  - Type: oscal-metadata-last-modified-FIELD
+	Length of ComplexType: 3
+	ComplexType Name: revision
+Element: version  - Type: oscal-metadata-version-FIELD
+	Length of ComplexType: 3
+	ComplexType Name: revision
+Element: oscal-version  - Type: oscal-metadata-oscal-version-FIELD
+	Length of ComplexType: 3
+	ComplexType Name: revision
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: revision
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: revision
+Element: remarks  - Type: remarks
+	Length of ComplexType: 3
+	ComplexType Name: revision
+ComplexType e: remarks
+Element: document-id  - Type: oscal-metadata-document-id-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+Element: role  - Type: role
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+ComplexType e: role
+Element: title  - Type: title
+	Length of ComplexType: 2
+	ComplexType Name: role
+ComplexType e: title
+Element: short-name  - Type: short-name
+	Length of ComplexType: 2
+	ComplexType Name: role
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: role
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: role
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: role
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: role
+ComplexType e: remarks
+Element: location  - Type: location
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+ComplexType e: location
+Element: title  - Type: title
+	Length of ComplexType: 2
+	ComplexType Name: location
+ComplexType e: title
+Element: address  - Type: oscal-metadata-address-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: location
+Element: email-address  - Type: oscal-metadata-email-address-FIELD
+	Length of ComplexType: 2
+	ComplexType Name: location
+Element: telephone-number  - Type: oscal-metadata-telephone-number-FIELD
+	Length of ComplexType: 2
+	ComplexType Name: location
+Element: url  - Type: url
+	Length of ComplexType: 2
+	ComplexType Name: location
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: location
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: location
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: location
+ComplexType e: remarks
+Element: party  - Type: party
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+ComplexType e: party
+Element: name  - Type: name
+	Length of ComplexType: 2
+	ComplexType Name: party
+Element: short-name  - Type: short-name
+	Length of ComplexType: 2
+	ComplexType Name: party
+Element: external-id  - Type: external-id
+	Length of ComplexType: 2
+	ComplexType Name: party
+ComplexType e: external-id
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: party
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: party
+Element: email-address  - Type: oscal-metadata-email-address-FIELD
+	Length of ComplexType: 2
+	ComplexType Name: party
+Element: telephone-number  - Type: oscal-metadata-telephone-number-FIELD
+	Length of ComplexType: 2
+	ComplexType Name: party
+Element: address  - Type: oscal-metadata-address-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: party
+Element: location-uuid  - Type: oscal-metadata-location-uuid-FIELD
+	Length of ComplexType: 2
+	ComplexType Name: party
+Element: member-of-organization  - Type: member-of-organization
+	Length of ComplexType: 2
+	ComplexType Name: party
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: party
+ComplexType e: remarks
+Element: responsible-party  - Type: oscal-metadata-responsible-party-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+Element: action  - Type: oscal-metadata-action-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-metadata-ASSEMBLY
+ComplexType e: remarks
+Element: resource  - Type: resource
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-back-matter-ASSEMBLY
+ComplexType e: resource
+Element: title  - Type: title
+	Length of ComplexType: 2
+	ComplexType Name: resource
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: resource
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: resource
+Element: document-id  - Type: oscal-metadata-document-id-FIELD
+	Length of ComplexType: 2
+	ComplexType Name: resource
+Element: citation  - Type: citation
+	Length of ComplexType: 2
+	ComplexType Name: resource
+ComplexType e: citation
+Element: text  - Type: text
+	Length of ComplexType: 3
+	ComplexType Name: citation
+ComplexType e: text
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: citation
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: citation
+Element: rlink  - Type: rlink
+	Length of ComplexType: 2
+	ComplexType Name: resource
+ComplexType e: rlink
+Element: hash  - Type: oscal-metadata-hash-FIELD
+	Length of ComplexType: 3
+	ComplexType Name: rlink
+Element: base64  - Type: base64
+	Length of ComplexType: 2
+	ComplexType Name: resource
+ComplexType e: base64
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: resource
+ComplexType e: remarks
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-property-ASSEMBLY
+ComplexType e: remarks
+Element: text  - Type: text
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-link-ASSEMBLY
+ComplexType e: text
+Element: party-uuid  - Type: UUIDDatatype
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-responsible-party-ASSEMBLY
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-responsible-party-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-responsible-party-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-responsible-party-ASSEMBLY
+ComplexType e: remarks
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-action-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-action-ASSEMBLY
+Element: responsible-party  - Type: oscal-metadata-responsible-party-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-action-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-action-ASSEMBLY
+ComplexType e: remarks
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-responsible-role-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-responsible-role-ASSEMBLY
+Element: party-uuid  - Type: UUIDDatatype
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-responsible-role-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-responsible-role-ASSEMBLY
+ComplexType e: remarks
+Element: addr-line  - Type: oscal-metadata-addr-line-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-address-ASSEMBLY
+Element: city  - Type: city
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-address-ASSEMBLY
+Element: state  - Type: state
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-address-ASSEMBLY
+Element: postal-code  - Type: postal-code
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-address-ASSEMBLY
+Element: country  - Type: country
+	Length of ComplexType: 1
+	ComplexType Name: oscal-metadata-address-ASSEMBLY
+Element: profile  - Type: oscal-profile-profile-ASSEMBLY
+	Length of ComplexType: 0
+Element: metadata  - Type: oscal-metadata-metadata-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-profile-ASSEMBLY
+Element: import  - Type: oscal-profile-import-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-profile-ASSEMBLY
+Element: merge  - Type: oscal-profile-merge-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-profile-ASSEMBLY
+Element: modify  - Type: oscal-profile-modify-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-profile-ASSEMBLY
+Element: back-matter  - Type: oscal-metadata-back-matter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-profile-ASSEMBLY
+Element: include-all  - Type: oscal-control-common-include-all-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-import-ASSEMBLY
+Element: include-controls  - Type: oscal-profile-select-control-by-id-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-import-ASSEMBLY
+Element: exclude-controls  - Type: oscal-profile-select-control-by-id-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-import-ASSEMBLY
+Element: combine  - Type: combine
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-merge-ASSEMBLY
+ComplexType e: combine
+Element: flat  - Type: flat
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-merge-ASSEMBLY
+ComplexType e: flat
+Element: as-is  - Type: as-is
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-merge-ASSEMBLY
+Element: custom  - Type: custom
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-merge-ASSEMBLY
+ComplexType e: custom
+Element: group  - Type: oscal-profile-group-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: custom
+Element: insert-controls  - Type: oscal-profile-insert-controls-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: custom
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-group-ASSEMBLY
+ComplexType e: title
+Element: param  - Type: oscal-control-common-parameter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-group-ASSEMBLY
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-group-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-group-ASSEMBLY
+Element: part  - Type: oscal-control-common-part-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-group-ASSEMBLY
+Element: group  - Type: oscal-profile-group-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-group-ASSEMBLY
+Element: insert-controls  - Type: oscal-profile-insert-controls-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-group-ASSEMBLY
+Element: set-parameter  - Type: set-parameter
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-modify-ASSEMBLY
+ComplexType e: set-parameter
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: set-parameter
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: set-parameter
+Element: label  - Type: label
+	Length of ComplexType: 2
+	ComplexType Name: set-parameter
+ComplexType e: label
+Element: usage  - Type: usage
+	Length of ComplexType: 2
+	ComplexType Name: set-parameter
+ComplexType e: usage
+Element: constraint  - Type: oscal-control-common-parameter-constraint-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: set-parameter
+Element: guideline  - Type: oscal-control-common-parameter-guideline-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: set-parameter
+Element: value  - Type: StringDatatype
+	Length of ComplexType: 2
+	ComplexType Name: set-parameter
+Element: select  - Type: oscal-control-common-parameter-selection-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: set-parameter
+Element: alter  - Type: alter
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-modify-ASSEMBLY
+ComplexType e: alter
+Element: remove  - Type: remove
+	Length of ComplexType: 2
+	ComplexType Name: alter
+ComplexType e: remove
+Element: add  - Type: add
+	Length of ComplexType: 2
+	ComplexType Name: alter
+ComplexType e: add
+Element: title  - Type: title
+	Length of ComplexType: 3
+	ComplexType Name: add
+ComplexType e: title
+Element: param  - Type: oscal-control-common-parameter-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: add
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: add
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: add
+Element: part  - Type: oscal-control-common-part-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: add
+Element: include-all  - Type: oscal-control-common-include-all-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-insert-controls-ASSEMBLY
+Element: include-controls  - Type: oscal-profile-select-control-by-id-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-insert-controls-ASSEMBLY
+Element: exclude-controls  - Type: oscal-profile-select-control-by-id-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-insert-controls-ASSEMBLY
+Element: with-id  - Type: oscal-profile-with-id-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-select-control-by-id-ASSEMBLY
+Element: matching  - Type: oscal-profile-matching-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-profile-select-control-by-id-ASSEMBLY
+Element: component-definition  - Type: oscal-component-definition-component-definition-ASSEMBLY
+	Length of ComplexType: 0
+Element: metadata  - Type: oscal-metadata-metadata-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-component-definition-ASSEMBLY
+Element: import-component-definition  - Type: oscal-component-definition-import-component-definition-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-component-definition-ASSEMBLY
+Element: component  - Type: oscal-component-definition-defined-component-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-component-definition-ASSEMBLY
+Element: capability  - Type: oscal-component-definition-capability-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-component-definition-ASSEMBLY
+Element: back-matter  - Type: oscal-metadata-back-matter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-component-definition-ASSEMBLY
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-defined-component-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-defined-component-ASSEMBLY
+ComplexType e: description
+Element: purpose  - Type: purpose
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-defined-component-ASSEMBLY
+ComplexType e: purpose
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-defined-component-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-defined-component-ASSEMBLY
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-defined-component-ASSEMBLY
+Element: protocol  - Type: oscal-implementation-common-protocol-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-defined-component-ASSEMBLY
+Element: control-implementation  - Type: oscal-component-definition-control-implementation-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-defined-component-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-defined-component-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-capability-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-capability-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-capability-ASSEMBLY
+Element: incorporates-component  - Type: oscal-component-definition-incorporates-component-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-capability-ASSEMBLY
+Element: control-implementation  - Type: oscal-component-definition-control-implementation-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-capability-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-capability-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-incorporates-component-ASSEMBLY
+ComplexType e: description
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-control-implementation-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-control-implementation-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-control-implementation-ASSEMBLY
+Element: set-parameter  - Type: oscal-implementation-common-set-parameter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-control-implementation-ASSEMBLY
+Element: implemented-requirement  - Type: oscal-component-definition-implemented-requirement-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-control-implementation-ASSEMBLY
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-implemented-requirement-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-implemented-requirement-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-implemented-requirement-ASSEMBLY
+Element: set-parameter  - Type: oscal-implementation-common-set-parameter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-implemented-requirement-ASSEMBLY
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-implemented-requirement-ASSEMBLY
+Element: statement  - Type: oscal-component-definition-statement-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-implemented-requirement-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-implemented-requirement-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-statement-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-statement-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-statement-ASSEMBLY
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-statement-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-component-definition-statement-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-component-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-component-ASSEMBLY
+ComplexType e: description
+Element: purpose  - Type: purpose
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-component-ASSEMBLY
+ComplexType e: purpose
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-component-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-component-ASSEMBLY
+Element: status  - Type: status
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-component-ASSEMBLY
+ComplexType e: status
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: status
+ComplexType e: remarks
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-component-ASSEMBLY
+Element: protocol  - Type: oscal-implementation-common-protocol-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-component-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-component-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-protocol-ASSEMBLY
+ComplexType e: title
+Element: port-range  - Type: oscal-implementation-common-port-range-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-protocol-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-implementation-status-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-user-ASSEMBLY
+ComplexType e: title
+Element: short-name  - Type: short-name
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-user-ASSEMBLY
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-user-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-user-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-user-ASSEMBLY
+Element: role-id  - Type: TokenDatatype
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-user-ASSEMBLY
+Element: authorized-privilege  - Type: oscal-implementation-common-authorized-privilege-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-user-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-system-user-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-authorized-privilege-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-authorized-privilege-ASSEMBLY
+ComplexType e: description
+Element: function-performed  - Type: oscal-implementation-common-function-performed-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-authorized-privilege-ASSEMBLY
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-inventory-item-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-inventory-item-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-inventory-item-ASSEMBLY
+Element: responsible-party  - Type: oscal-metadata-responsible-party-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-inventory-item-ASSEMBLY
+Element: implemented-component  - Type: implemented-component
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-inventory-item-ASSEMBLY
+ComplexType e: implemented-component
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: implemented-component
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: implemented-component
+Element: responsible-party  - Type: oscal-metadata-responsible-party-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: implemented-component
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: implemented-component
+ComplexType e: remarks
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-inventory-item-ASSEMBLY
+ComplexType e: remarks
+Element: value  - Type: value
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-set-parameter-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-implementation-common-set-parameter-ASSEMBLY
+ComplexType e: remarks
+Element: system-security-plan  - Type: oscal-ssp-system-security-plan-ASSEMBLY
+	Length of ComplexType: 0
+Element: metadata  - Type: oscal-metadata-metadata-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-security-plan-ASSEMBLY
+Element: import-profile  - Type: oscal-ssp-import-profile-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-security-plan-ASSEMBLY
+Element: system-characteristics  - Type: oscal-ssp-system-characteristics-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-security-plan-ASSEMBLY
+Element: system-implementation  - Type: oscal-ssp-system-implementation-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-security-plan-ASSEMBLY
+Element: control-implementation  - Type: oscal-ssp-control-implementation-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-security-plan-ASSEMBLY
+Element: back-matter  - Type: oscal-metadata-back-matter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-security-plan-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-import-profile-ASSEMBLY
+ComplexType e: remarks
+Element: system-id  - Type: oscal-implementation-common-system-id-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: system-name  - Type: system-name
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: system-name-short  - Type: system-name-short
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: date-authorized  - Type: oscal-ssp-date-authorized-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: security-sensitivity-level  - Type: security-sensitivity-level
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: system-information  - Type: oscal-ssp-system-information-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: security-impact-level  - Type: oscal-ssp-security-impact-level-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: status  - Type: oscal-ssp-status-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: authorization-boundary  - Type: oscal-ssp-authorization-boundary-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: network-architecture  - Type: oscal-ssp-network-architecture-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: data-flow  - Type: oscal-ssp-data-flow-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: responsible-party  - Type: oscal-metadata-responsible-party-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-characteristics-ASSEMBLY
+ComplexType e: remarks
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-information-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-information-ASSEMBLY
+Element: information-type  - Type: information-type
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-information-ASSEMBLY
+ComplexType e: information-type
+Element: title  - Type: title
+	Length of ComplexType: 2
+	ComplexType Name: information-type
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: information-type
+ComplexType e: description
+Element: categorization  - Type: categorization
+	Length of ComplexType: 2
+	ComplexType Name: information-type
+ComplexType e: categorization
+Element: information-type-id  - Type: information-type-id
+	Length of ComplexType: 3
+	ComplexType Name: categorization
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: information-type
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: information-type
+Element: confidentiality-impact  - Type: oscal-ssp-impact-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: information-type
+Element: integrity-impact  - Type: oscal-ssp-impact-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: information-type
+Element: availability-impact  - Type: oscal-ssp-impact-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: information-type
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-impact-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-impact-ASSEMBLY
+Element: base  - Type: oscal-ssp-base-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-impact-ASSEMBLY
+Element: selected  - Type: oscal-ssp-selected-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-impact-ASSEMBLY
+Element: adjustment-justification  - Type: adjustment-justification
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-impact-ASSEMBLY
+ComplexType e: adjustment-justification
+Element: security-objective-confidentiality  - Type: security-objective-confidentiality
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-security-impact-level-ASSEMBLY
+Element: security-objective-integrity  - Type: security-objective-integrity
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-security-impact-level-ASSEMBLY
+Element: security-objective-availability  - Type: security-objective-availability
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-security-impact-level-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-status-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-authorization-boundary-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-authorization-boundary-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-authorization-boundary-ASSEMBLY
+Element: diagram  - Type: oscal-ssp-diagram-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-authorization-boundary-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-authorization-boundary-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-diagram-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-diagram-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-diagram-ASSEMBLY
+Element: caption  - Type: caption
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-diagram-ASSEMBLY
+ComplexType e: caption
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-diagram-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-network-architecture-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-network-architecture-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-network-architecture-ASSEMBLY
+Element: diagram  - Type: oscal-ssp-diagram-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-network-architecture-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-network-architecture-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-data-flow-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-data-flow-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-data-flow-ASSEMBLY
+Element: diagram  - Type: oscal-ssp-diagram-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-data-flow-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-data-flow-ASSEMBLY
+ComplexType e: remarks
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-implementation-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-implementation-ASSEMBLY
+Element: leveraged-authorization  - Type: leveraged-authorization
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-implementation-ASSEMBLY
+ComplexType e: leveraged-authorization
+Element: title  - Type: title
+	Length of ComplexType: 2
+	ComplexType Name: leveraged-authorization
+ComplexType e: title
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: leveraged-authorization
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: leveraged-authorization
+Element: party-uuid  - Type: party-uuid
+	Length of ComplexType: 2
+	ComplexType Name: leveraged-authorization
+Element: date-authorized  - Type: DateDatatype
+	Length of ComplexType: 2
+	ComplexType Name: leveraged-authorization
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: leveraged-authorization
+ComplexType e: remarks
+Element: user  - Type: oscal-implementation-common-system-user-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-implementation-ASSEMBLY
+Element: component  - Type: oscal-implementation-common-system-component-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-implementation-ASSEMBLY
+Element: inventory-item  - Type: oscal-implementation-common-inventory-item-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-implementation-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-system-implementation-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-control-implementation-ASSEMBLY
+ComplexType e: description
+Element: set-parameter  - Type: oscal-implementation-common-set-parameter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-control-implementation-ASSEMBLY
+Element: implemented-requirement  - Type: oscal-ssp-implemented-requirement-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-control-implementation-ASSEMBLY
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-implemented-requirement-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-implemented-requirement-ASSEMBLY
+Element: set-parameter  - Type: oscal-implementation-common-set-parameter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-implemented-requirement-ASSEMBLY
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-implemented-requirement-ASSEMBLY
+Element: statement  - Type: oscal-ssp-statement-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-implemented-requirement-ASSEMBLY
+Element: by-component  - Type: oscal-ssp-by-component-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-implemented-requirement-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-implemented-requirement-ASSEMBLY
+ComplexType e: remarks
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-statement-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-statement-ASSEMBLY
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-statement-ASSEMBLY
+Element: by-component  - Type: oscal-ssp-by-component-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-statement-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-statement-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-by-component-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-by-component-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-by-component-ASSEMBLY
+Element: set-parameter  - Type: oscal-implementation-common-set-parameter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-by-component-ASSEMBLY
+Element: implementation-status  - Type: oscal-implementation-common-implementation-status-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-by-component-ASSEMBLY
+Element: export  - Type: export
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-by-component-ASSEMBLY
+ComplexType e: export
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: export
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: export
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: export
+Element: provided  - Type: provided
+	Length of ComplexType: 2
+	ComplexType Name: export
+ComplexType e: provided
+Element: description  - Type: description
+	Length of ComplexType: 3
+	ComplexType Name: provided
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: provided
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: provided
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: provided
+Element: remarks  - Type: remarks
+	Length of ComplexType: 3
+	ComplexType Name: provided
+ComplexType e: remarks
+Element: responsibility  - Type: responsibility
+	Length of ComplexType: 2
+	ComplexType Name: export
+ComplexType e: responsibility
+Element: description  - Type: description
+	Length of ComplexType: 3
+	ComplexType Name: responsibility
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: responsibility
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: responsibility
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: responsibility
+Element: remarks  - Type: remarks
+	Length of ComplexType: 3
+	ComplexType Name: responsibility
+ComplexType e: remarks
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: export
+ComplexType e: remarks
+Element: inherited  - Type: inherited
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-by-component-ASSEMBLY
+ComplexType e: inherited
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: inherited
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: inherited
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: inherited
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: inherited
+Element: satisfied  - Type: satisfied
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-by-component-ASSEMBLY
+ComplexType e: satisfied
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: satisfied
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: satisfied
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: satisfied
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: satisfied
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: satisfied
+ComplexType e: remarks
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-by-component-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ssp-by-component-ASSEMBLY
+ComplexType e: remarks
+Element: assessment-plan  - Type: oscal-ap-assessment-plan-ASSEMBLY
+	Length of ComplexType: 0
+Element: metadata  - Type: oscal-metadata-metadata-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ap-assessment-plan-ASSEMBLY
+Element: import-ssp  - Type: oscal-assessment-common-import-ssp-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ap-assessment-plan-ASSEMBLY
+Element: local-definitions  - Type: local-definitions
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ap-assessment-plan-ASSEMBLY
+ComplexType e: local-definitions
+Element: component  - Type: oscal-implementation-common-system-component-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: inventory-item  - Type: oscal-implementation-common-inventory-item-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: user  - Type: oscal-implementation-common-system-user-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: objectives-and-methods  - Type: oscal-assessment-common-local-objective-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: activity  - Type: oscal-assessment-common-activity-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+ComplexType e: remarks
+Element: terms-and-conditions  - Type: terms-and-conditions
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ap-assessment-plan-ASSEMBLY
+ComplexType e: terms-and-conditions
+Element: part  - Type: oscal-assessment-common-assessment-part-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: terms-and-conditions
+Element: reviewed-controls  - Type: oscal-assessment-common-reviewed-controls-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ap-assessment-plan-ASSEMBLY
+Element: assessment-subject  - Type: oscal-assessment-common-assessment-subject-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ap-assessment-plan-ASSEMBLY
+Element: assessment-assets  - Type: oscal-assessment-common-assessment-assets-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ap-assessment-plan-ASSEMBLY
+Element: task  - Type: oscal-assessment-common-task-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ap-assessment-plan-ASSEMBLY
+Element: back-matter  - Type: oscal-metadata-back-matter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ap-assessment-plan-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-import-ssp-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-local-objective-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-local-objective-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-local-objective-ASSEMBLY
+Element: part  - Type: oscal-control-common-part-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-local-objective-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-local-objective-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-method-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-method-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-method-ASSEMBLY
+Element: part  - Type: oscal-assessment-common-assessment-part-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-method-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-method-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-activity-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-activity-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-activity-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-activity-ASSEMBLY
+Element: step  - Type: step
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-activity-ASSEMBLY
+ComplexType e: step
+Element: title  - Type: title
+	Length of ComplexType: 2
+	ComplexType Name: step
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: step
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: step
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: step
+Element: reviewed-controls  - Type: oscal-assessment-common-reviewed-controls-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: step
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: step
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: step
+ComplexType e: remarks
+Element: related-controls  - Type: oscal-assessment-common-reviewed-controls-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-activity-ASSEMBLY
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-activity-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-activity-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-task-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-task-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-task-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-task-ASSEMBLY
+Element: timing  - Type: timing
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-task-ASSEMBLY
+ComplexType e: timing
+Element: on-date  - Type: on-date
+	Length of ComplexType: 2
+	ComplexType Name: timing
+ComplexType e: on-date
+Element: within-date-range  - Type: within-date-range
+	Length of ComplexType: 2
+	ComplexType Name: timing
+ComplexType e: within-date-range
+Element: at-frequency  - Type: at-frequency
+	Length of ComplexType: 2
+	ComplexType Name: timing
+ComplexType e: at-frequency
+Element: dependency  - Type: dependency
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-task-ASSEMBLY
+ComplexType e: dependency
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: dependency
+ComplexType e: remarks
+Element: task  - Type: oscal-assessment-common-task-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-task-ASSEMBLY
+Element: associated-activity  - Type: associated-activity
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-task-ASSEMBLY
+ComplexType e: associated-activity
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: associated-activity
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: associated-activity
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: associated-activity
+Element: subject  - Type: oscal-assessment-common-assessment-subject-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: associated-activity
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: associated-activity
+ComplexType e: remarks
+Element: subject  - Type: oscal-assessment-common-assessment-subject-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-task-ASSEMBLY
+Element: responsible-role  - Type: oscal-metadata-responsible-role-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-task-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-task-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-reviewed-controls-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-reviewed-controls-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-reviewed-controls-ASSEMBLY
+Element: control-selection  - Type: control-selection
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-reviewed-controls-ASSEMBLY
+ComplexType e: control-selection
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: control-selection
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: control-selection
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: control-selection
+Element: include-all  - Type: oscal-control-common-include-all-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: control-selection
+Element: include-control  - Type: oscal-assessment-common-select-control-by-id-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: control-selection
+Element: exclude-control  - Type: oscal-assessment-common-select-control-by-id-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: control-selection
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: control-selection
+ComplexType e: remarks
+Element: control-objective-selection  - Type: control-objective-selection
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-reviewed-controls-ASSEMBLY
+ComplexType e: control-objective-selection
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: control-objective-selection
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: control-objective-selection
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: control-objective-selection
+Element: include-all  - Type: oscal-control-common-include-all-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: control-objective-selection
+Element: include-objective  - Type: oscal-assessment-common-select-objective-by-id-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: control-objective-selection
+Element: exclude-objective  - Type: oscal-assessment-common-select-objective-by-id-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: control-objective-selection
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: control-objective-selection
+ComplexType e: remarks
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-reviewed-controls-ASSEMBLY
+ComplexType e: remarks
+Element: statement-id  - Type: statement-id
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-select-control-by-id-ASSEMBLY
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-placeholder-ASSEMBLY
+ComplexType e: description
+Element: source  - Type: source
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-placeholder-ASSEMBLY
+ComplexType e: source
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-placeholder-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-placeholder-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-placeholder-ASSEMBLY
+ComplexType e: remarks
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-ASSEMBLY
+Element: include-all  - Type: oscal-control-common-include-all-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-ASSEMBLY
+Element: include-subject  - Type: oscal-assessment-common-select-subject-by-id-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-ASSEMBLY
+Element: exclude-subject  - Type: oscal-assessment-common-select-subject-by-id-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-subject-ASSEMBLY
+ComplexType e: remarks
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-select-subject-by-id-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-select-subject-by-id-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-select-subject-by-id-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-subject-reference-ASSEMBLY
+ComplexType e: title
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-subject-reference-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-subject-reference-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-subject-reference-ASSEMBLY
+ComplexType e: remarks
+Element: component  - Type: oscal-implementation-common-system-component-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-assets-ASSEMBLY
+Element: assessment-platform  - Type: assessment-platform
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-assets-ASSEMBLY
+ComplexType e: assessment-platform
+Element: title  - Type: title
+	Length of ComplexType: 2
+	ComplexType Name: assessment-platform
+ComplexType e: title
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: assessment-platform
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: assessment-platform
+Element: uses-component  - Type: uses-component
+	Length of ComplexType: 2
+	ComplexType Name: assessment-platform
+ComplexType e: uses-component
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: uses-component
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: uses-component
+Element: responsible-party  - Type: oscal-metadata-responsible-party-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: uses-component
+Element: remarks  - Type: remarks
+	Length of ComplexType: 3
+	ComplexType Name: uses-component
+ComplexType e: remarks
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: assessment-platform
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-target-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-target-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-target-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-target-ASSEMBLY
+Element: status  - Type: status
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-target-ASSEMBLY
+ComplexType e: status
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: status
+ComplexType e: remarks
+Element: implementation-status  - Type: oscal-implementation-common-implementation-status-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-target-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-target-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-ASSEMBLY
+Element: origin  - Type: oscal-assessment-common-origin-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-ASSEMBLY
+Element: target  - Type: oscal-assessment-common-finding-target-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-ASSEMBLY
+Element: implementation-statement-uuid  - Type: implementation-statement-uuid
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-ASSEMBLY
+Element: related-observation  - Type: related-observation
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-ASSEMBLY
+ComplexType e: related-observation
+Element: associated-risk  - Type: associated-risk
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-ASSEMBLY
+ComplexType e: associated-risk
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-finding-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+Element: method  - Type: method
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+Element: type  - Type: type
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+Element: origin  - Type: oscal-assessment-common-origin-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+Element: subject  - Type: oscal-assessment-common-subject-reference-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+Element: relevant-evidence  - Type: relevant-evidence
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+ComplexType e: relevant-evidence
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: relevant-evidence
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: relevant-evidence
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: relevant-evidence
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: relevant-evidence
+ComplexType e: remarks
+Element: collected  - Type: collected
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+Element: expires  - Type: expires
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-observation-ASSEMBLY
+ComplexType e: remarks
+Element: actor  - Type: oscal-assessment-common-origin-actor-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-origin-ASSEMBLY
+Element: related-task  - Type: oscal-assessment-common-related-task-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-origin-ASSEMBLY
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-origin-actor-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-origin-actor-ASSEMBLY
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-related-task-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-related-task-ASSEMBLY
+Element: responsible-party  - Type: oscal-metadata-responsible-party-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-related-task-ASSEMBLY
+Element: subject  - Type: oscal-assessment-common-assessment-subject-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-related-task-ASSEMBLY
+Element: identified-subject  - Type: identified-subject
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-related-task-ASSEMBLY
+ComplexType e: identified-subject
+Element: subject  - Type: oscal-assessment-common-assessment-subject-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: identified-subject
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-related-task-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+ComplexType e: description
+Element: statement  - Type: statement
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+ComplexType e: statement
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+Element: status  - Type: oscal-assessment-common-risk-status-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+Element: origin  - Type: oscal-assessment-common-origin-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+Element: threat-id  - Type: oscal-assessment-common-threat-id-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+Element: characterization  - Type: oscal-assessment-common-characterization-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+Element: mitigating-factor  - Type: mitigating-factor
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+ComplexType e: mitigating-factor
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: mitigating-factor
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: mitigating-factor
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: mitigating-factor
+Element: subject  - Type: oscal-assessment-common-subject-reference-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: mitigating-factor
+Element: deadline  - Type: deadline
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+Element: response  - Type: oscal-assessment-common-response-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+Element: risk-log  - Type: risk-log
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+ComplexType e: risk-log
+Element: entry  - Type: entry
+	Length of ComplexType: 2
+	ComplexType Name: risk-log
+ComplexType e: entry
+Element: title  - Type: title
+	Length of ComplexType: 3
+	ComplexType Name: entry
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 3
+	ComplexType Name: entry
+ComplexType e: description
+Element: start  - Type: start
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: end  - Type: end
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: logged-by  - Type: oscal-assessment-common-logged-by-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: status-change  - Type: oscal-assessment-common-risk-status-FIELD
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: related-response  - Type: related-response
+	Length of ComplexType: 3
+	ComplexType Name: entry
+ComplexType e: related-response
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 4
+	ComplexType Name: related-response
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 4
+	ComplexType Name: related-response
+Element: related-task  - Type: oscal-assessment-common-related-task-ASSEMBLY
+	Length of ComplexType: 4
+	ComplexType Name: related-response
+Element: remarks  - Type: remarks
+	Length of ComplexType: 4
+	ComplexType Name: related-response
+ComplexType e: remarks
+Element: remarks  - Type: remarks
+	Length of ComplexType: 3
+	ComplexType Name: entry
+ComplexType e: remarks
+Element: related-observation  - Type: related-observation
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-risk-ASSEMBLY
+ComplexType e: related-observation
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-characterization-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-characterization-ASSEMBLY
+Element: origin  - Type: oscal-assessment-common-origin-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-characterization-ASSEMBLY
+Element: facet  - Type: facet
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-characterization-ASSEMBLY
+ComplexType e: facet
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: facet
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: facet
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: facet
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-response-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-response-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-response-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-response-ASSEMBLY
+Element: origin  - Type: oscal-assessment-common-origin-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-response-ASSEMBLY
+Element: required-asset  - Type: required-asset
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-response-ASSEMBLY
+ComplexType e: required-asset
+Element: subject  - Type: oscal-assessment-common-subject-reference-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: required-asset
+Element: title  - Type: title
+	Length of ComplexType: 2
+	ComplexType Name: required-asset
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 2
+	ComplexType Name: required-asset
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: required-asset
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: required-asset
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: required-asset
+ComplexType e: remarks
+Element: task  - Type: oscal-assessment-common-task-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-response-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-response-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-part-ASSEMBLY
+ComplexType e: title
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-part-ASSEMBLY
+Element: part  - Type: oscal-assessment-common-assessment-part-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-part-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-assessment-common-assessment-part-ASSEMBLY
+Element: assessment-results  - Type: oscal-ar-assessment-results-ASSEMBLY
+	Length of ComplexType: 0
+Element: metadata  - Type: oscal-metadata-metadata-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-assessment-results-ASSEMBLY
+Element: import-ap  - Type: oscal-ar-import-ap-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-assessment-results-ASSEMBLY
+Element: local-definitions  - Type: local-definitions
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-assessment-results-ASSEMBLY
+ComplexType e: local-definitions
+Element: objectives-and-methods  - Type: oscal-assessment-common-local-objective-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: activity  - Type: oscal-assessment-common-activity-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: remarks  - Type: remarks
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+ComplexType e: remarks
+Element: result  - Type: oscal-ar-result-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-assessment-results-ASSEMBLY
+Element: back-matter  - Type: oscal-metadata-back-matter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-assessment-results-ASSEMBLY
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+ComplexType e: description
+Element: start  - Type: start
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+Element: end  - Type: end
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+Element: local-definitions  - Type: local-definitions
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+ComplexType e: local-definitions
+Element: component  - Type: oscal-implementation-common-system-component-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: inventory-item  - Type: oscal-implementation-common-inventory-item-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: user  - Type: oscal-implementation-common-system-user-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: assessment-assets  - Type: oscal-assessment-common-assessment-assets-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: assessment-task  - Type: oscal-assessment-common-task-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: local-definitions
+Element: reviewed-controls  - Type: oscal-assessment-common-reviewed-controls-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+Element: attestation  - Type: attestation
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+ComplexType e: attestation
+Element: responsible-party  - Type: oscal-metadata-responsible-party-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: attestation
+Element: part  - Type: oscal-assessment-common-assessment-part-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: attestation
+Element: assessment-log  - Type: assessment-log
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+ComplexType e: assessment-log
+Element: entry  - Type: entry
+	Length of ComplexType: 2
+	ComplexType Name: assessment-log
+ComplexType e: entry
+Element: title  - Type: title
+	Length of ComplexType: 3
+	ComplexType Name: entry
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 3
+	ComplexType Name: entry
+ComplexType e: description
+Element: start  - Type: start
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: end  - Type: end
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: logged-by  - Type: oscal-assessment-common-logged-by-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: related-task  - Type: oscal-assessment-common-related-task-ASSEMBLY
+	Length of ComplexType: 3
+	ComplexType Name: entry
+Element: remarks  - Type: remarks
+	Length of ComplexType: 3
+	ComplexType Name: entry
+ComplexType e: remarks
+Element: observation  - Type: oscal-assessment-common-observation-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+Element: risk  - Type: oscal-assessment-common-risk-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+Element: finding  - Type: oscal-assessment-common-finding-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-result-ASSEMBLY
+ComplexType e: remarks
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-ar-import-ap-ASSEMBLY
+ComplexType e: remarks
+Element: plan-of-action-and-milestones  - Type: oscal-poam-plan-of-action-and-milestones-ASSEMBLY
+	Length of ComplexType: 0
+Element: metadata  - Type: oscal-metadata-metadata-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-plan-of-action-and-milestones-ASSEMBLY
+Element: import-ssp  - Type: oscal-assessment-common-import-ssp-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-plan-of-action-and-milestones-ASSEMBLY
+Element: system-id  - Type: oscal-implementation-common-system-id-FIELD
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-plan-of-action-and-milestones-ASSEMBLY
+Element: local-definitions  - Type: oscal-poam-local-definitions-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-plan-of-action-and-milestones-ASSEMBLY
+Element: observation  - Type: oscal-assessment-common-observation-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-plan-of-action-and-milestones-ASSEMBLY
+Element: risk  - Type: oscal-assessment-common-risk-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-plan-of-action-and-milestones-ASSEMBLY
+Element: finding  - Type: oscal-assessment-common-finding-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-plan-of-action-and-milestones-ASSEMBLY
+Element: poam-item  - Type: oscal-poam-poam-item-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-plan-of-action-and-milestones-ASSEMBLY
+Element: back-matter  - Type: oscal-metadata-back-matter-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-plan-of-action-and-milestones-ASSEMBLY
+Element: component  - Type: oscal-implementation-common-system-component-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-local-definitions-ASSEMBLY
+Element: inventory-item  - Type: oscal-implementation-common-inventory-item-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-local-definitions-ASSEMBLY
+Element: assessment-assets  - Type: oscal-assessment-common-assessment-assets-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-local-definitions-ASSEMBLY
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-local-definitions-ASSEMBLY
+ComplexType e: remarks
+Element: title  - Type: title
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-poam-item-ASSEMBLY
+ComplexType e: title
+Element: description  - Type: description
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-poam-item-ASSEMBLY
+ComplexType e: description
+Element: prop  - Type: oscal-metadata-property-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-poam-item-ASSEMBLY
+Element: link  - Type: oscal-metadata-link-ASSEMBLY
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-poam-item-ASSEMBLY
+Element: origin  - Type: origin
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-poam-item-ASSEMBLY
+ComplexType e: origin
+Element: actor  - Type: oscal-assessment-common-origin-actor-ASSEMBLY
+	Length of ComplexType: 2
+	ComplexType Name: origin
+Element: related-finding  - Type: related-finding
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-poam-item-ASSEMBLY
+ComplexType e: related-finding
+Element: related-observation  - Type: related-observation
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-poam-item-ASSEMBLY
+ComplexType e: related-observation
+Element: associated-risk  - Type: associated-risk
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-poam-item-ASSEMBLY
+ComplexType e: associated-risk
+Element: remarks  - Type: remarks
+	Length of ComplexType: 1
+	ComplexType Name: oscal-poam-poam-item-ASSEMBLY
+ComplexType e: remarks
+Element: h1  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: h2  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: h3  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: h4  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: h5  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: h6  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: p  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: table  - Type: tableType
+	Length of ComplexType: 0
+Element: img  - Type: imageType
+	Length of ComplexType: 0
+Element: pre  - Type: preformattedType
+	Length of ComplexType: 0
+Element: hr  - Type: hr
+	Length of ComplexType: 0
+Element: blockquote  - Type: blockQuoteType
+	Length of ComplexType: 0
+Element: li  - Type: listItemType
+	Length of ComplexType: 1
+	ComplexType Name: listType
+Element: ul  - Type: listType
+	Length of ComplexType: 0
+Element: ol  - Type: orderedListType
+	Length of ComplexType: 0
+Element: p  - Type: inlineMarkupType
+	Length of ComplexType: 1
+	ComplexType Name: listItemType
+Element: tr  - Type: tableRowType
+	Length of ComplexType: 1
+	ComplexType Name: tableType
+Element: td  - Type: tableCellType
+	Length of ComplexType: 1
+	ComplexType Name: tableRowType
+Element: th  - Type: tableCellType
+	Length of ComplexType: 1
+	ComplexType Name: tableRowType
+Element: a  - Type: anchorType
+	Length of ComplexType: 0
+Element: insert  - Type: insertType
+	Length of ComplexType: 0
+Element: br  - Type: br
+	Length of ComplexType: 0
+Element: code  - Type: codeType
+	Length of ComplexType: 0
+Element: em  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: i  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: b  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: strong  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: sub  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: sup  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: q  - Type: inlineMarkupType
+	Length of ComplexType: 0
+Element: img  - Type: imageType
+	Length of ComplexType: 0
+done

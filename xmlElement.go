@@ -10,6 +10,7 @@ package xgen
 
 import (
 	"encoding/xml"
+	"fmt"
 	"strconv"
 )
 
@@ -48,6 +49,7 @@ func (opt *Options) OnElement(ele xml.StartElement, protoTree []interface{}) (er
 				e.Plural = true
 			}
 		}
+
 	}
 
 	if e.Type == "" {
@@ -58,10 +60,12 @@ func (opt *Options) OnElement(ele xml.StartElement, protoTree []interface{}) (er
 		opt.Element.Push(&e)
 	}
 
+	fmt.Printf("Element: %s  - Type: %s\n", e.Name, e.Type)
+
 	if opt.Choice.Len() > 0 {
 		e.Plural = e.Plural || opt.Choice.Peek().(*Choice).Plural
 	}
-
+	fmt.Printf("\tLength of ComplexType: %v\n", opt.ComplexType.Len())
 	if opt.ComplexType.Len() > 0 {
 		element, i := findElement(&e, opt.ComplexType.Peek().(*ComplexType).Elements)
 		// Handle a case where two elements with the same name and type are present in the same complex type
@@ -71,10 +75,14 @@ func (opt *Options) OnElement(ele xml.StartElement, protoTree []interface{}) (er
 		// In this situation, the version of the element that's preserved is the one with the highest plurality
 		// since generated code for an array of a type should be compatible to unmarshal/marshal arrays of a single
 		// element
+
+		// TODO - see if we can log the complex type & element names here
 		if element != nil && element.Type == e.Type {
 			element.Plural = element.Plural || e.Plural
+			fmt.Printf("\tComplexType Name match: %s\n", opt.ComplexType.Peek().(*ComplexType).Name)
 			opt.ComplexType.Peek().(*ComplexType).Elements[i] = *element
 		} else {
+			fmt.Printf("\tComplexType Name: %s\n", opt.ComplexType.Peek().(*ComplexType).Name)
 			opt.ComplexType.Peek().(*ComplexType).Elements = append(opt.ComplexType.Peek().(*ComplexType).Elements, e)
 		}
 		return

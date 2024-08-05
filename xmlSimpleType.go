@@ -8,7 +8,10 @@
 
 package xgen
 
-import "encoding/xml"
+import (
+	"encoding/xml"
+	// "fmt"
+)
 
 // OnSimpleType handles parsing event on the simpleType start elements. The
 // simpleType element defines a simple type and specifies the constraints and
@@ -35,10 +38,12 @@ func (opt *Options) EndSimpleType(ele xml.EndElement, protoTree []interface{}) (
 		opt.Attribute.Peek().(*Attribute).Type = opt.SimpleType.Pop().(*SimpleType).Base
 		return
 	}
-	if ele.Name.Local == opt.CurrentEle && opt.ComplexType.Len() == 1 {
-		opt.ProtoTree = append(opt.ProtoTree, opt.ComplexType.Pop())
-		opt.CurrentEle = ""
-	}
+	// if ele.Name.Local == opt.CurrentEle && opt.ComplexType.Len() == 1 {
+	// 	fmt.Printf("local: %s - current: %s\n", ele.Name.Local, opt.CurrentEle)
+	// 	fmt.Println("ComplexType Pop")
+	// 	opt.ProtoTree = append(opt.ProtoTree, opt.ComplexType.Pop())
+	// 	opt.CurrentEle = ""
+	// }
 
 	if ele.Name.Local == opt.CurrentEle && !opt.InUnion {
 		opt.ProtoTree = append(opt.ProtoTree, opt.SimpleType.Pop())

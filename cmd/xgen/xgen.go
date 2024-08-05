@@ -112,6 +112,7 @@ func main() {
 			OutputDir:           cfg.O,
 			Lang:                cfg.Lang,
 			Package:             cfg.Pkg,
+			Extract:             true,
 			IncludeMap:          make(map[string]bool),
 			LocalNameNSMap:      make(map[string]string),
 			NSSchemaLocationMap: make(map[string]string),

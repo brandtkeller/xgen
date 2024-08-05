@@ -8,13 +8,17 @@
 
 package xgen
 
-import "encoding/xml"
+import (
+	"encoding/xml"
+	"fmt"
+)
 
 // OnComplexType handles parsing event on the complex start elements. A
 // complex element contains other elements and/or attributes.
 func (opt *Options) OnComplexType(ele xml.StartElement, protoTree []interface{}) (err error) {
 	if opt.ComplexType.Len() > 0 {
 		e := opt.Element.Pop().(*Element)
+		fmt.Printf("ComplexType e: %s\n", e.Name)
 		opt.ComplexType.Push(&ComplexType{
 			Name: e.Name,
 		})
